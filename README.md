@@ -1,2 +1,2 @@
 # Configs
-This is for my configurations
+This are for my configurations
